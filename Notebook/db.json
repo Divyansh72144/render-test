@@ -1,0 +1,35 @@
+{
+  "notes": [
+    {
+    
+      "content": "a new note...",
+      "important": true,
+      "id": 1
+    },
+    {
+      "content": "fsdg",
+      "important": true,
+      "id": 2
+    },
+    {
+      "content": "a new note...asfasf",
+      "important": true,
+      "id": 3
+    },
+    {
+      "content": "a new noasfasfte...",
+      "important": true,
+      "id": 4
+    },
+    {
+      "content": "asfasfasf",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "",
+      "important": true,
+      "id": 6
+    }
+  ]
+}
